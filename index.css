@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    box-sizing: border-box;
+    background-color: rgb(136, 209, 231);
+    width: 600px;
+    /* height: 400px; */
+}
+.container div {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(113, 197, 223);
+    color: rgb(103, 120, 124);
+    border: 25px solid rgb(73, 137, 156);
+    
+    font-size: 60px;
+    /* margin: auto; */
+    text-align: center;
+    font-weight: bold;
+}
