@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: #FF5C58;
     color: whitesmoke;
     text-align: center;
     margin-top: 20px;
@@ -10,17 +10,16 @@ body{
     flex-wrap: wrap;
     margin: auto;
     box-sizing: border-box;
-    background-color: rgb(136, 209, 231);
+    background-color: #FFEDD3;
     width: 600px;
     /* height: 400px; */
 }
 .container div {
     width: 100px;
     height: 100px;
-    background-color: rgb(113, 197, 223);
-    color: rgb(103, 120, 124);
-    border: 25px solid rgb(73, 137, 156);
-    
+    background-color: #FE8F8F;
+    color: #FCD2D1;
+    border: 25px solid #FFEDD3;
     font-size: 60px;
     /* margin: auto; */
     text-align: center;
